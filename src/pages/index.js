@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import LoadableOsc from "../components/LoadableOsc"
+import LoadableOsc from "../components/loadableosc"
 
 const IndexPage = () => (
   <Layout>
